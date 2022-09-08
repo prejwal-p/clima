@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="57px" viewBox="0 0 64 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Nightdesert</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-122.000000, -117.000000)">
+            <g id="Nightdesert" transform="translate(122.000000, 117.000000)">
+                <path d="M8.41613251,5.59702925 C10.3038898,2.25568707 13.8885229,0 18,0 C24.0751322,0 29,4.92486775 29,11 C29,15.8203529 25.8994355,19.9165302 21.5838675,21.4029708 C22.4854666,19.8071346 23,17.9636552 23,16 C23,9.92486775 18.0751322,5 12,5 C10.7452207,5 9.53951195,5.210096 8.41613251,5.59702925 Z" id="Combined-Shape" fill="#325AA6" transform="translate(18.708066, 10.701485) scale(-1, 1) translate(-18.708066, -10.701485) "></path>
+                <path d="M26,15 L26,19" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M24,17 L28,17" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M5,26 L5,30" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M3,28 L7,28" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M18,30 L18,34" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M16,32 L20,32" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M29,37 C49.336554,37 58,57 58,57 L0,57 C0,57 8.66344604,37 29,37 Z" id="Rectangle-18" fill="#5EA7FF"></path>
+                <path d="M42,42 C57.4277306,42 64,57 64,57 L20,57 C20,57 26.5722694,42 42,42 Z" id="Rectangle-18" fill="#325AA6"></path>
+                <path d="M45,43 L45,26" id="Line" stroke="#22BA8E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M44.988176,35.0293818 L42.994088,35.0293818 C41.8927836,35.0293818 41,34.1391058 41,33.0338458 L41,28" id="Path-15" stroke="#22BA8E" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M48.988176,39.0293818 L46.994088,39.0293818 C45.8927836,39.0293818 45,38.1391058 45,37.0338458 L45,32" id="Path-15" stroke="#22BA8E" stroke-width="2" stroke-linecap="round" transform="translate(46.994088, 35.514691) scale(-1, 1) translate(-46.994088, -35.514691) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

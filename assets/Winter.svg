@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="61px" viewBox="0 0 59 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Winter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-217.000000, -117.000000)">
+            <g id="Winter" transform="translate(217.000000, 117.000000)">
+                <path d="M7,46 L7,58" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M30,46 L30,58" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M52,46 L52,58" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M7,47 C10.8659932,47 14,45.3888407 14,36 C14,26.6111593 10.8659932,15 7,15 C3.13400675,15 0,26.6111593 0,36 C0,45.3888407 3.13400675,47 7,47 Z" id="Oval-3" fill="#22BA8E"></path>
+                <path d="M7,23.406915 C10.8659932,23.406915 14,28.7016183 14,24.1594525 C14,19.6172867 10.8659932,14 7,14 C3.13400675,14 0,19.6172867 0,24.1594525 C0,28.7016183 3.13400675,23.406915 7,23.406915 Z" id="Oval-3" fill="#ECECEC"></path>
+                <path d="M52,47 C55.8659932,47 59,45.7916306 59,38.75 C59,31.7083694 55.8659932,23 52,23 C48.1340068,23 45,31.7083694 45,38.75 C45,45.7916306 48.1340068,47 52,47 Z" id="Oval-3" fill="#22BA8E"></path>
+                <path d="M30,45 C33.8659932,45 37,42.8853535 37,30.5625 C37,18.2396465 33.8659932,3 30,3 C26.1340068,3 23,18.2396465 23,30.5625 C23,42.8853535 26.1340068,45 30,45 Z" id="Oval-3" fill="#22BA8E"></path>
+                <path d="M52,31.406915 C55.8659932,31.406915 59,36.7016183 59,32.1594525 C59,27.6172867 55.8659932,22 52,22 C48.1340068,22 45,27.6172867 45,32.1594525 C45,36.7016183 48.1340068,31.406915 52,31.406915 Z" id="Oval-3" fill="#ECECEC"></path>
+                <path d="M22,60 C22,56.1340068 18.8659932,53 15,53 C11.1340068,53 8,56.1340068 8,60 L22,60 Z" id="Oval-4" fill="#DEDEDE"></path>
+                <path d="M30,9.40691499 C33.3137085,9.40691499 36,14.7016183 36,10.1594525 C36,5.6172867 33.3137085,0 30,0 C26.6862915,0 24,5.6172867 24,10.1594525 C24,14.7016183 26.6862915,9.40691499 30,9.40691499 Z" id="Oval-3" fill="#ECECEC"></path>
+                <path d="M34,60 C34,56.1340068 30.8659932,53 27,53 C23.1340068,53 20,56.1340068 20,60 L34,60 Z" id="Oval-4" fill="#DEDEDE"></path>
+                <path d="M50,60 C50,56.1340068 46.8659932,53 43,53 C39.1340068,53 36,56.1340068 36,60 L50,60 Z" id="Oval-4" fill="#ECECEC"></path>
+                <path d="M39,60 C39,57.2385763 36.7614237,55 34,55 C31.2385763,55 29,57.2385763 29,60 L39,60 Z" id="Oval-4" fill="#DEDEDE"></path>
+                <path d="M24,60 C24,57.2385763 21.7614237,55 19,55 C16.2385763,55 14,57.2385763 14,60 L24,60 Z" id="Oval-4" fill="#ECECEC"></path>
+                <path d="M3,60 L56.0377224,60" id="Line" stroke="#D8D8D8" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Windmill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-313.000000, -27.000000)">
+            <g id="Windmill" transform="translate(310.000000, 23.000000)">
+                <path d="M44,51 L44,5" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M41,20 L34,26" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M54,20 L47,26" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square" transform="translate(50.500000, 23.000000) scale(-1, 1) translate(-50.500000, -23.000000) "></path>
+                <circle id="Oval-7" fill="#D8D8D8" cx="44" cy="18" r="4"></circle>
+                <path d="M3,64.2800379 L63.0333241,64.2800379 C63.0333241,64.2800379 59.9878623,54.8140625 53.2357555,53.0726122 C46.4836487,51.3311619 44.3996494,51.9709695 36.4151316,53.1497974 C28.4306137,54.3286253 3,64.2800379 3,64.2800379 Z" id="Line" fill="#80D25B"></path>
+                <polyline id="Path-8" stroke="#BD7575" stroke-width="2" stroke-linecap="round" points="52 12.2623404 55.4644957 14.3024878 58.9395049 12"></polyline>
+                <polyline id="Path-8" stroke="#BD7575" stroke-width="2" stroke-linecap="round" points="56 17.2623404 59.4644957 19.3024878 62.9395049 17"></polyline>
+                <polyline id="Path-8" stroke="#BD7575" stroke-width="2" stroke-linecap="round" points="34 7.26234042 37.4644957 9.30248779 40.9395049 7"></polyline>
+                <path d="M10,34.0053227 C10,30.6886745 12.6827759,28 15.9981851,28 L18.0018149,28 C21.314521,28 24,30.6764399 24,34.0053227 L24,64 L10,64 L10,34.0053227 Z" id="Rectangle-5" fill="#BD7575"></path>
+                <path d="M17,28 L17,18.7804555" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+                <g id="Group-2" transform="translate(16.970563, 16.970563) rotate(-45.000000) translate(-16.970563, -16.970563) translate(4.970563, 4.970563)">
+                    <g id="Group" transform="translate(10.000000, 0.000000)">
+                        <rect id="Rectangle-11" fill="#D8D8D8" x="0" y="0" width="4" height="9"></rect>
+                        <rect id="Rectangle-11" fill="#D8D8D8" x="0" y="15" width="4" height="9"></rect>
+                        <path d="M2,16 L2,8" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+                    </g>
+                    <g id="Group" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(10.000000, 0.000000)">
+                        <rect id="Rectangle-11" fill="#D8D8D8" x="0" y="0" width="4" height="9"></rect>
+                        <rect id="Rectangle-11" fill="#D8D8D8" x="0" y="15" width="4" height="9"></rect>
+                        <path d="M2,16 L2,8" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+                    </g>
+                </g>
+                <rect id="Rectangle-9" fill="#595959" x="14" y="55" width="6" height="9"></rect>
+                <path d="M13,35.9999433 C13,33.7908356 14.7953562,32 17,32 L17,32 C19.209139,32 21,33.7996535 21,35.9999433 L21,41 L13,41 L13,35.9999433 Z" id="Rectangle-7" fill="#595959"></path>
+            </g>
+        </g>
+    </g>
+</svg>

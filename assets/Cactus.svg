@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="52px" viewBox="0 0 59 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Cactus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-309.000000, -123.000000)">
+            <g id="Cactus" transform="translate(309.000000, 123.000000)">
+                <circle id="Oval-9" fill="#E43535" cx="34" cy="17" r="17"></circle>
+                <path d="M12,13 L12,35.6347236 C12,37.5318019 13.5386812,39.0696878 15.4281359,39.0696878 L18.8562718,39.0696878" id="Path-7" stroke="#22BA8E" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M19,49 L19,20" id="Line" stroke="#22BA8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M49,38 L49,23" id="Line" stroke="#22BA8E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M19.1303926,4 L19.1303926,26.5762073 C19.1303926,28.5026338 20.694362,30.0643111 22.6148698,30.0643111 L26.099347,30.0643111" id="Path-7" stroke="#22BA8E" stroke-width="4" stroke-linecap="round" transform="translate(22.614870, 17.032156) scale(-1, 1) translate(-22.614870, -17.032156) "></path>
+                <polygon id="Path-9" fill="#FCC24C" points="58.9606556 37.8537207 37.2910512 37.8537207 0.402434863 51.2410404 58.9606556 51.2410404"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

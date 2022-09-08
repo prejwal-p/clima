@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="58px" viewBox="0 0 61 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Rain</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-35.000000, -119.000000)">
+            <g id="Rain" transform="translate(36.000000, 119.000000)">
+                <path d="M8,43 L8,55" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M31,43 L31,55" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M53,43 L53,55" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M8,44 C11.8659932,44 15,42.3888407 15,33 C15,23.6111593 11.8659932,12 8,12 C4.13400675,12 1,23.6111593 1,33 C1,42.3888407 4.13400675,44 8,44 Z" id="Oval-3" fill="#22BA8E"></path>
+                <path d="M53,44 C56.8659932,44 60,42.7916306 60,35.75 C60,28.7083694 56.8659932,20 53,20 C49.1340068,20 46,28.7083694 46,35.75 C46,42.7916306 49.1340068,44 53,44 Z" id="Oval-3" fill="#22BA8E"></path>
+                <path d="M31,42 C34.8659932,42 38,39.8853535 38,27.5625 C38,15.2396465 34.8659932,0 31,0 C27.1340068,0 24,15.2396465 24,27.5625 C24,39.8853535 27.1340068,42 31,42 Z" id="Oval-3" fill="#22BA8E"></path>
+                <path d="M23,57 C23,53.1340068 19.8659932,50 16,50 C12.1340068,50 9,53.1340068 9,57 L23,57 Z" id="Oval-4" fill="#80D25B"></path>
+                <path d="M35,57 C35,53.1340068 31.8659932,50 28,50 C24.1340068,50 21,53.1340068 21,57 L35,57 Z" id="Oval-4" fill="#80D25B"></path>
+                <path d="M51,57 C51,53.1340068 47.8659932,50 44,50 C40.1340068,50 37,53.1340068 37,57 L51,57 Z" id="Oval-4" fill="#22BA8E"></path>
+                <path d="M40,57 C40,54.2385763 37.7614237,52 35,52 C32.2385763,52 30,54.2385763 30,57 L40,57 Z" id="Oval-4" fill="#80D25B"></path>
+                <path d="M25,57 C25,54.2385763 22.7614237,52 20,52 C17.2385763,52 15,54.2385763 15,57 L25,57 Z" id="Oval-4" fill="#22BA8E"></path>
+                <path d="M4,57 L57.0377224,57" id="Line" stroke="#BD7575" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M6,2 L11,7" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M42,11 L49,18" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M19.4504902,15.4504902 L22,18" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M52.4504902,28.4504902 L55,31" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M51.4504902,33.4504902 L54,36" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M0.450490243,35.4504902 L3,38" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M22,25 L29,32" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M9,28 L16,35" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M15,4 L22,11" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M32,29 L43,40" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M27.4723074,13.4723074 L32,18" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M40.4723074,25.4723074 L45,30" id="Line" stroke="#B4DFFB" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

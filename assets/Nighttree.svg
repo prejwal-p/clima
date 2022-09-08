@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="60px" viewBox="0 0 62 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Nighttree</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-35.000000, -208.000000)">
+            <g id="Nighttree" transform="translate(36.000000, 208.000000)">
+                <circle id="Oval-15" fill="#325AA6" cx="50" cy="12" r="8"></circle>
+                <circle id="Oval-15" fill="#325AA6" cx="32" cy="17" r="8"></circle>
+                <circle id="Oval-15" fill="#5EA7FF" cx="41" cy="9" r="8"></circle>
+                <circle id="Oval-15" fill="#5EA7FF" cx="53" cy="22" r="8"></circle>
+                <circle id="Oval-15" fill="#5EA7FF" cx="47" cy="30" r="8"></circle>
+                <path d="M41,24 L45,24 C45,24 44.486833,32.7629936 45,42 C45.513167,51.2370064 49,60 49,60 L37,60 C37,60 40.513167,50.7629936 41,42 C41.486833,33.2370064 41,24 41,24 Z" id="Rectangle-26" fill="#325AA6"></path>
+                <path d="M5,59 L57.0864666,59" id="Line" stroke="#325AA6" stroke-width="2" stroke-linecap="square"></path>
+                <circle id="Oval-14" fill="#325AA6" cx="43" cy="20" r="14"></circle>
+                <circle id="Oval-15" fill="#5EA7FF" cx="35" cy="28" r="8"></circle>
+                <path d="M5.41613251,5.59702925 C7.30388976,2.25568707 10.8885229,0 15,0 C21.0751322,0 26,4.92486775 26,11 C26,15.8203529 22.8994355,19.9165302 18.5838675,21.4029708 C19.4854666,19.8071346 20,17.9636552 20,16 C20,9.92486775 15.0751322,5 9,5 C7.7452207,5 6.53951195,5.210096 5.41613251,5.59702925 Z" id="Combined-Shape" fill="#325AA6" transform="translate(15.708066, 10.701485) scale(-1, 1) translate(-15.708066, -10.701485) "></path>
+                <path d="M21,44 L21,48" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M19,46 L23,46" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M2,26 L2,30" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M0,28 L4,28" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M15,30 L15,34" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M13,32 L17,32" id="Line" stroke="#5EA7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
